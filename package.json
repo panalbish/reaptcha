@@ -11,7 +11,7 @@
     "lint": "eslint .",
     "test": "ava --verbose 'lib/**/*.test.js'",
     "coverage": "nyc npm test && nyc report --reporter=text-lcov | coveralls",
-    "release": "npm run build && lerna publish --conventional-commits"
+    "release": "npm run build && lerna publish --conventional-commits --registry https://artifactory.rewe-digital.com/artifactory/api/npm/npm/"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
