@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+<a name="1.8.1"></a>
+
+## [1.8.1](https://github.com/sarneeh/reaptcha/compare/v1.8.0...v1.8.1) (2020-04-17)
+
+**Note:** Version bump only for package reaptcha-enterprise
+
 <a name="1.8.0"></a>
 
 # [1.8.0](https://github.com/sarneeh/reaptcha/compare/v1.7.2...v1.8.0) (2020-04-17)
